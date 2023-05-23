@@ -8,6 +8,7 @@ junk foods while keeping the information of calorie count in mind, this nutritio
 ## Technologies used :
 * Azure Blob Storage
 * Azure Static Web Apps
+* Azure Language cognitive service
 * Azure Bot Service
 * HTML
 * Javascript
