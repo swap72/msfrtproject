@@ -9,6 +9,7 @@ junk foods while keeping the information of calorie count in mind, this nutritio
 * Azure Blob Storage
 * Azure Static Web Apps
 * Azure Bot Service
+* Azure language cognitive service
 * HTML
 * Javascript
 * CSS
