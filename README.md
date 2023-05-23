@@ -1,7 +1,1 @@
-**Project Name: Swapnil's**
-
-
-
-
-
-<span style="color: red;">This text is red.</span>
+[#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
