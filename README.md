@@ -29,7 +29,7 @@ junk foods while keeping the information of calorie count in mind, this nutritio
 ## Project Demo : 
 
 
-## *Project Samples : *
+## Project Samples : 
 
 ![image](https://github.com/swap72/msfrtproject/assets/63197684/c5e6ba7a-31a7-4691-83e7-1c18d7e84668)
 ![image](https://github.com/swap72/msfrtproject/assets/63197684/36f947d7-e931-4faa-af44-ac61bc22678d)
