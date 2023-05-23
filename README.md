@@ -15,4 +15,4 @@ junk foods while keeping the information of calorie count in mind, this nutritio
 
 ## Project Demo : 
 
-Note : Usage of assets of this project without the permission of the owner of this prjoct is scritly probhitted 🚫 All rights reserved ©️ Swapnil Mishra
+Note : Usage of any of the assets of this project without the permission of the owner of this project is unethical. 🚫 All rights reserved ©️ Swapnil Mishra.
