@@ -27,7 +27,7 @@ junk foods while keeping the information of calorie count in mind, this nutritio
 
 ## Project : https://orange-mushroom-04d4fb000.3.azurestaticapps.net/
 
-## Project Demo : 
+## Project Demo : https://youtu.be/LORBV46HHFA
 
 
 ## Project Samples : 
