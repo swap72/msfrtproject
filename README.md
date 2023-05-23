@@ -14,3 +14,5 @@ junk foods while keeping the information of calorie count in mind, this nutritio
 ## Project : https://orange-mushroom-04d4fb000.3.azurestaticapps.net/
 
 ## Project Demo : 
+
+Note : Usage of assets of this project without the permission of the owner of this prjoct is scritly probhitted 🚫 All rights reserved ©️ Swapnil Mishra
