@@ -16,7 +16,7 @@ junk foods while keeping the information of calorie count in mind, this nutritio
 * Bootstrap
 * Telegram 
 
-**Silent Features :**
+**Features :**
 
 * Attractive Interface
 * User Friendly Navigations 
