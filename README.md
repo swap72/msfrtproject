@@ -5,6 +5,13 @@ A food-focused website, featuring tempting fast foods and an interactive chatbot
 Main idea behind this contrasting theme is that one can enjoy these
 junk foods while keeping the information of calorie count in mind, this nutritional information can be provided by the chatbot feature of this website.**_
 
+# $${\color{green}Side Note : }$$	
+_Since this was completely a cloud based project,
+this project was hosted as a static web app service on my Azure Student Account 
+which was running upon free student account credits, 
+ever since my account has run out of credits, this project has no longer been deployed live, 
+however the screenshots and video are provided for references._
+
 ## Technologies used :
 * Azure Blob Storage
 * Azure Static Web Apps
